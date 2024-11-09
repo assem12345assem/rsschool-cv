@@ -14,7 +14,7 @@ Motivated Software Engineer with strong communication skills and interest in con
 | - JS/TS | - Spring | - MongoDB | - WebDriverIO | - Git |
 | - Java | - Node.js | - PostgreSQL | - Mocha | - Jira, Notion |
 | - HTML | - Next.js | - MySQL | - Cucumber | - Postman, Swagger |
-| - CSS   | - React  |  | -JUnit, Selenium |
+| - CSS   | - React  |  | - JUnit, Selenium |
 
 
 
