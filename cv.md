@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+</head>
+<body>
+  
 # Asem Asfandiarova 
 
 ## Contact Information
@@ -34,3 +41,5 @@ Motivated Software Engineer with strong communication skills and interest in con
 
 ## English Level: C1
 Semester-long exchange program in the Bard College in NY, USA in 2011. Prior to career-switching to IT, had extensive experience in international organizations where primary working language is English.
+</body>
+</html>
